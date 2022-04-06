@@ -1,4 +1,3 @@
-<script>
 
   let mistakes = 5;
 
@@ -84,5 +83,3 @@
     let div2 = document.getElementById('box');
     div2.style.display = 'none';
   }
-
-</script>
