@@ -1,5 +1,4 @@
-
-  let mistakes = 5;
+let mistakes = 5;
 
   function hide() {
     let div = document.getElementById('inputCard');
